@@ -1,7 +1,11 @@
+import AboutProfession from './AboutProfession';
+import HowBecomeDeveloper from './HowBecomeDeveloper';
+
 export const App = () => {
   return (
     <div>
-      <h1 className="text-5xl font-bold underline">Hello world!</h1>
+      <AboutProfession />
+      <HowBecomeDeveloper />
     </div>
   );
 };
