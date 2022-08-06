@@ -25,7 +25,7 @@ export default function AboutProfession() {
             </p>
             <button
               type="button"
-              className="text-white text-[18px] font-normal w-[205px] md:w-[325px] h-[75px] bg-[#ED7138] rounded-[24px] hover:opacity-50"
+              className="text-white text-[18px] font-normal w-[205px] md:w-[325px] h-[75px] bg-[#ED7138] rounded-[24px] hover:opacity-[0.8]"
             >
               Задать вопрос об обучении
             </button>
