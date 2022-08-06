@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/test-result/static/css/main.b48f50b3.css",
-    "main.js": "/test-result/static/js/main.fc723ba7.js",
+    "main.css": "/test-result/static/css/main.4c80d9b7.css",
+    "main.js": "/test-result/static/js/main.0f294012.js",
     "static/media/students-project.jpg": "/test-result/static/media/students-project.93a87d9d7201093504f5.jpg",
     "static/media/Golos-Text_Medium.ttf": "/test-result/static/media/Golos-Text_Medium.5665f65e68980e80b1e4.ttf",
     "static/media/Golos-Text_DemiBold.ttf": "/test-result/static/media/Golos-Text_DemiBold.c8cfbf81387734a4e2f0.ttf",
     "static/media/Golos-Text_Bold.ttf": "/test-result/static/media/Golos-Text_Bold.a8adfb2e044d27baf0e8.ttf",
     "static/media/Golos-Text_Regular.ttf": "/test-result/static/media/Golos-Text_Regular.e504b5d9f251f7c61708.ttf",
     "static/media/javascript-anim.jpg": "/test-result/static/media/javascript-anim.c4b9e4d282ec93257d0e.jpg",
+    "static/media/atom.svg": "/test-result/static/media/atom.22f32b3b8cd0d3a08e9e52a956d6f8a5.svg",
+    "static/media/web-development-1.svg": "/test-result/static/media/web-development-1.a83f45076fcb3ac831b5da495e9e7443.svg",
+    "static/media/nano-technology.svg": "/test-result/static/media/nano-technology.d8a3f0d45c40542b341b6164bb16eeec.svg",
+    "static/media/icon.svg": "/test-result/static/media/icon.d920abfe7a1bbb5d090682860387b2e7.svg",
     "static/media/command-line-1.svg": "/test-result/static/media/command-line-1.52b5f3193aff8de6e6792d2705987012.svg",
+    "static/media/Question.svg": "/test-result/static/media/Question.48cbc035cbff494f3720da03edb66d96.svg",
     "index.html": "/test-result/index.html",
-    "main.b48f50b3.css.map": "/test-result/static/css/main.b48f50b3.css.map",
-    "main.fc723ba7.js.map": "/test-result/static/js/main.fc723ba7.js.map"
+    "static/media/Subtract.svg": "/test-result/static/media/Subtract.2772e41710db3e7ce31bf7480d633568.svg",
+    "main.4c80d9b7.css.map": "/test-result/static/css/main.4c80d9b7.css.map",
+    "main.0f294012.js.map": "/test-result/static/js/main.0f294012.js.map"
   },
   "entrypoints": [
-    "static/css/main.b48f50b3.css",
-    "static/js/main.fc723ba7.js"
+    "static/css/main.4c80d9b7.css",
+    "static/js/main.0f294012.js"
   ]
 }
