@@ -1,12 +1,21 @@
 import studentsProjects from 'images/students-project.jpg';
+import question from 'images/Question.svg';
 
 export default function HowBecomeDeveloper() {
   return (
     <div className="bg-[#FBFBFB]">
       <div className="pl-[20px] pt-[30px] text-center">
-        <h2 className="text-[24px] md:text-[54px] font-bold mb-[40px]">
-          Как именно ты станешь разработчиком
-        </h2>
+        <div className="relative inline-block">
+          <h2 className="text-[24px] md:text-[54px] font-bold mb-[40px]">
+            Как именно ты станешь разработчиком
+          </h2>
+          <button
+            className="hidden 2xl:block absolute top-[30px] left-[-20px] xl:top-[30px] xl:left-[-60px]"
+            type="button"
+          >
+            <img src={question} alt="question" />
+          </button>
+        </div>
         <p className="text-[16px] md:text-[24px]  mb-[60px] lg:w-[970px] text-center inline-block">
           На курсе ты не просто изучаешь теоретический материал. в процессе
           изучения ты повторяете за действующим разработчиком, после чего
@@ -74,6 +83,3 @@ export default function HowBecomeDeveloper() {
     </div>
   );
 }
-
-//sm:bottom-[-290px] sm:left-[10px]
-// sm:bottom-[-460px] sm:right-[10px]

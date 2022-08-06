@@ -1,11 +1,12 @@
 import bgImage from 'images/javascript-anim.jpg';
 import link from 'images/command-line-1.svg';
+
 export default function AboutProfession() {
   return (
-    <div className="bg-[#FBFBFB]">
+    <div className=" bg-[#FBFBFB]">
       <div className=" flex justify-end pt-[100px] ">
-        <div className="bg-[#9088FF] w-[100%] 2xl:w-[1760px]  pl-[20px] sm:pl-[95px] pt-[65px] 2xl:flex 2xl:rounded-l-[30px] justify-between">
-          <div className="md:w-[760px] ">
+        <div className="relative z-10 bg-[#9088FF] w-[100%] 2xl:w-[1760px]  pl-[20px] sm:pl-[65px] lg:pl-[95px] pt-[65px] 2xl:flex 2xl:rounded-l-[30px] justify-between">
+          <div className="md:w-[700px] ">
             <h2 className="text-white text-[24px] md:text-[54px] font-semibold mb-[40px]">
               Профессия <br /> Frontend — разработчик
             </h2>
@@ -24,7 +25,7 @@ export default function AboutProfession() {
             </p>
             <button
               type="button"
-              className="text-white text-[18px] font-normal w-[205px] md:w-[325px] h-[75px] bg-[#ED7138] rounded-[24px]"
+              className="text-white text-[18px] font-normal w-[205px] md:w-[325px] h-[75px] bg-[#ED7138] rounded-[24px] hover:opacity-50"
             >
               Задать вопрос об обучении
             </button>
