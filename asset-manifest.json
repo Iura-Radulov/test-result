@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test-result/static/css/main.6413a21a.css",
-    "main.js": "/test-result/static/js/main.b2ba4cf3.js",
+    "main.css": "/test-result/static/css/main.c72b9493.css",
+    "main.js": "/test-result/static/js/main.e77bdb43.js",
     "static/media/students-project.jpg": "/test-result/static/media/students-project.93a87d9d7201093504f5.jpg",
     "static/media/Golos-Text_Medium.ttf": "/test-result/static/media/Golos-Text_Medium.5665f65e68980e80b1e4.ttf",
     "static/media/Golos-Text_DemiBold.ttf": "/test-result/static/media/Golos-Text_DemiBold.c8cfbf81387734a4e2f0.ttf",
@@ -16,11 +16,11 @@
     "static/media/Question.svg": "/test-result/static/media/Question.48cbc035cbff494f3720da03edb66d96.svg",
     "index.html": "/test-result/index.html",
     "static/media/Subtract.svg": "/test-result/static/media/Subtract.2772e41710db3e7ce31bf7480d633568.svg",
-    "main.6413a21a.css.map": "/test-result/static/css/main.6413a21a.css.map",
-    "main.b2ba4cf3.js.map": "/test-result/static/js/main.b2ba4cf3.js.map"
+    "main.c72b9493.css.map": "/test-result/static/css/main.c72b9493.css.map",
+    "main.e77bdb43.js.map": "/test-result/static/js/main.e77bdb43.js.map"
   },
   "entrypoints": [
-    "static/css/main.6413a21a.css",
-    "static/js/main.b2ba4cf3.js"
+    "static/css/main.c72b9493.css",
+    "static/js/main.e77bdb43.js"
   ]
 }
