@@ -7,7 +7,7 @@ const activeLink = { opacity: 1 };
 
 export default function WhatCourseGive() {
   return (
-    <div className=" px-[30px]">
+    <div className=" px-[30px] py-[60px] bg-[#FBFBFB]">
       <div className="py-[40px] lg:pt-[120px] lg:pb-[90px] text-center bg-[#0F1214] rounded-[24px]">
         <motion.h2
           initial={{ opacity: 0.2, scale: 0.5 }}
